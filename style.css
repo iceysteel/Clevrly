@@ -34,5 +34,12 @@ a:active {
     color:white;
     font-size: 3em;
     margin-bottom: .5em;
-    
+    font-weight: bold;
 }
+
+
+img.resize{
+    width:230px; /* you can use % */
+    height: 230px;
+    border-radius: 100%;
+}   
