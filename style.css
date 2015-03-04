@@ -30,7 +30,12 @@ a:active {
     background-color: #e74c3c !important;
 }
 
+#otherred {
+    background-color: #ecf0f1 !important;
+}
+
 #sectionhead{
+
     color:white;
     font-size: 3em;
     margin-bottom: .5em;
