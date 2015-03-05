@@ -47,4 +47,12 @@ img.resize{
     width:230px; /* you can use % */
     height: 230px;
     border-radius: 100%;
-}   
+} 
+
+#right{
+    text-align: right;   
+}
+
+#center{
+    text-align: center;   
+}
